@@ -1,5 +1,5 @@
-# 2020UIFrameworkFightClub
-Multi-project repository to examine the pros and cons between Angular, React, and Vue. Also, it's a learning project for me to try using Vue.
+# YuleTideee
+Learning project using React, and Vue UI frameworks and with Go and C++ runtimes.
 
 Project tracks "Weissnacht Events" perpetrated by [SCP-4666 "Yule Man"](http://www.scpwiki.com/scp-4666). SCP-4666 is a monster created by Hercules Rockefeller in the fictional universe of the SCP Foundation which is an organization contains anomalous objects, entities, and phenomena. SCP-4666 basically is a Christmas horror movie monster that attacks families north of 40°N latitude. Data will be mocked according to the data in the aforementioned link and randomly created for each year up to 2020.
 
@@ -28,13 +28,3 @@ Project tracks "Weissnacht Events" perpetrated by [SCP-4666 "Yule Man"](http://w
   * Name of child abducted generated according to common names of respective country
 * Graphs displaying agreggated data of events
 * Disclaimer with various credits, that data is purely fictional, and that any coincidences with real people are also fictional
-
-## Conclusions of Various Frameworks
-
-### Angular Pros
-### React Pros
-### Vue Pros
-
-### Angular Cons
-### React Cons
-### Vue Cons
